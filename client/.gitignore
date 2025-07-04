@@ -1,5 +1,3 @@
 .vscode
 *.o
-build
 w.txt
-client_log.txt
